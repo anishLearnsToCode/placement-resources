@@ -1,4 +1,4 @@
-# Placement Resources
+# 🎓 Placement Resources
 
 This repository aims to provide important and helpful links for cracking your dream tech or
 non-tech job. Contributions are welcome and highly appreciated, read the
@@ -14,7 +14,8 @@ Best of luck ! 🎢 and happy cracking 😋.
 ## 📖 Overview
 1. [Tech Resources](#-technical-interview-resources)
 1. [Non-Tech Resources](#-non-technical-interview-resources)
-1. [Contributors](#contributors)
+1. [Experiences](#-experiences)
+1. [Contributors](#-contributors)
  
  
  ## 👨‍💻 Technical Interview Resources
@@ -30,3 +31,6 @@ Best of luck ! 🎢 and happy cracking 😋.
  [Sachin Duhan](https://github.com/sachin-duhan26)
  for maintaining this repository and keeping it up to date :)
  
+---
+
+Lastly, star ⭐ and fork this repo to show the ♥
