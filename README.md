@@ -23,7 +23,7 @@ Best of luck ! 🎢 and happy cracking 😋.
  ## 📕 Non-Technical Interview Resources
  
  ## 🚩 Experiences
- <a href="experience"><img src="https://avatars.githubusercontent.com/anishLearnsToCode" width="35px"></a> 
+ <a href="experience/anishLearnsToCode.md"><img src="https://avatars.githubusercontent.com/anishLearnsToCode" width="35px"></a> 
  
  ## 👩 Contributors
  

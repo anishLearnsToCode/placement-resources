@@ -10,6 +10,7 @@ See a sample [here](experience).
 To contribute follow the below guidelines:
 
 ### 1. Fork this Repository
+![fork](assets/fork.png)
 
 ### 2. Clone the repository from your profile
 ```bash
@@ -64,6 +65,12 @@ add another remote to the official repo and match your local repo using that.
 
 ```bash
 cd placement-resources
+git checkout master
 git remote add destiny https://github.com/anishLearnsToCode/placement-resources.git
-git pull --rebase master
+git pull --rebase destiny master 
+git push origin master 
 ```
+
+This will bring you repository at `your-github-username/placement-resources` up to date with 
+`anishLearnsToCode/placement-resources`
+
