@@ -30,7 +30,3 @@ Best of luck ! 🎢 and happy cracking 😋.
  Special shout out to 
  [Sachin Duhan](https://github.com/sachin-duhan26)
  for maintaining this repository and keeping it up to date :)
- 
----
-
-Lastly, star ⭐ and fork this repo to show the ♥
