@@ -1,21 +1,23 @@
 # Anish Sachdeva
 
-![website](https://img.icons8.com/color/35/000000/internet.png)
-![linkedIn](https://img.icons8.com/color/35/000000/linkedin.png)
-![instagram](https://img.icons8.com/color/35/000000/instagram.png)
-![github](https://img.icons8.com/color/35/000000/github.png)
-![spotify](https://img.icons8.com/color/35/000000/spotify.png)
+[![website](https://img.icons8.com/color/35/000000/internet.png)](https://anishlearnstocode.github.io/)
+[![linkedIn](https://img.icons8.com/color/35/000000/linkedin.png)](https://www.linkedin.com/in/anishsachdeva1998/)
+[![instagram](https://img.icons8.com/color/35/000000/instagram.png)](https://www.instagram.com/anish.sachdeva_/)
+[![github](https://img.icons8.com/color/35/000000/github.png)](https://github.com/anishLearnsToCode)
+[![spotify](https://img.icons8.com/color/35/000000/spotify.png)](https://open.spotify.com/user/31r6afaliqqks3n2g2o5jqpfi67e)
 
 Hi, I studied Mathematics and Computing from the Delhi Technological University 🎓 and during that time I explored
 many different things including competitive programming, web Development and am currently getting my hands dirty 
 with Machine Learning. (who isn't??)
 
 I practiced algorithms and data structures extensively and almost exclusively from 
-[HackerRank]() and you can check out links to all the Hackerrank problems I have solved over 
-[here]().
+[HackerRank](https://www.hackerrank.com/domains/algorithms) 
+and you can check out links to all the Hackerrank problems I have solved over 
+[here](https://github.com/anishLearnsToCode/competitive-programming).
 
-Before the placement season I also solved a few questions of the [Leetcode algorithms]()
-domain whose solutions can be viewed [here]().
+Before the placement season I also solved a few questions of the 
+[Leetcode algorithms](https://leetcode.com/problemset/algorithms)
+domain whose solutions can be viewed [here](https://github.com/anishLearnsToCode/leetcode-algorithms).
 
 In 2018 I was selected as a Technical Student at CERN and worked there as a full stack software developer. 
 Before CERN, I worked at Coding Ninjas, Delhi as a Java Teaching Assistant and even today I am a tutor at What
