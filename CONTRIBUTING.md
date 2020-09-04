@@ -30,6 +30,16 @@ _dbms-deadlocking-examples_ etc.
 Edit the `README.md` file or add your experience under `experience/[unique-github-username].md`
 like `experience/anishLearnsToCode.md`
 
+If you are adding an experience then please also link your experience in the `README.md` file under the 
+__Experiences__ section as follows:
+
+```html
+<a href="experience/your-github-username.md"><img src="https://avatars.githubusercontent.com/your-github-username" width="35px"></a> 
+```
+
+Add this link under all other links and please do not insert your experience link in the middle of the list. 
+Thank you :smile:.
+
 ### 4. Commit and Push Changes
 
 ```bash
@@ -45,3 +55,15 @@ and choose your newly created branch from the
 _branches & Tags_ dropdown menu.
  
  Then simply click on __Create Pull Request__ and voila job done !
+
+### 6. Aftermath
+
+Once your pull request has been approved and merged the master branch at `anishLearnsToCode/placement-resources`
+will be ahead of your forked repo at `your-github-username/placement-resources`. To fix this you need to
+add another remote to the official repo and match your local repo using that. 
+
+```bash
+cd placement-resources
+git remote add destiny https://github.com/anishLearnsToCode/placement-resources.git
+git pull --rebase master
+```
