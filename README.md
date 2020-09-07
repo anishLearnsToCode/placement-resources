@@ -115,7 +115,6 @@ Best of luck ! 🎢 and happy cracking 😋.
   - [Machine Learning](#machine-learning)
 - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 - [Video Series](#video-series)
-- [Computer Science Courses](#computer-science-courses)
 
 </details>
 
@@ -1691,12 +1690,6 @@ Best of luck ! 🎢 and happy cracking 😋.
   - [ ] [Graph Theory by Sarada Herke (67 videos)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
   </details>
-
-  ## Computer Science Courses
-
-  - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-  - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-
  
  ## 🚩 Experiences
  <a href="experience/anishLearnsToCode.md"><img src="https://avatars.githubusercontent.com/anishLearnsToCode" width="35px"></a> 
