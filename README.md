@@ -1,7 +1,7 @@
 # 🎓 Placement Resources
 
 [![experiences](https://img.shields.io/badge/Quick%20Link-Experiences-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-experiences)
-[![contributors](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-contributors)
+[![contributors](https://img.shields.io/badge/Quick%20Link-Contributors-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-contributors)
 
 This repository aims to provide important and helpful links for cracking your dream tech job. Contributions are welcome 
 and highly appreciated, read the [Contribution Guidelines](CONTRIBUTING.md) here.
