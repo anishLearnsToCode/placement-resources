@@ -1,156 +1,140 @@
 # 🎓 Placement Resources
 
-This repository aims to provide important and helpful links for cracking your dream tech or
-non-tech job. Contributions are welcome and highly appreciated, read the
-[Contribution Guidelines](CONTRIBUTING.md)
-here.
+This repository aims to provide important and helpful links for cracking your dream tech job. Contributions are welcome 
+and highly appreciated, read the [Contribution Guidelines](CONTRIBUTING.md) here.
 
 Read the experiences of people who have been placed 
 [here](#-experiences). If you have been successfully placed at a company, you can also add your 
-experience by simply following the [Contribution Guidelines](CONTRIBUTING.md)
+experience by simply following the [Contribution Guidelines](CONTRIBUTING.md).
 
-Best of luck ! 🎢 and happy cracking 😋.
-
-## 📖 Overview
-1. [Tech Resources](#-technical-interview-resources)
-1. [Non-Tech Resources](#-non-technical-interview-resources)
-1. [Experiences](#-experiences)
-1. [Contributors](#-contributors)
- 
- 
- ## 👨‍💻 Technical Interview Resources
- <details>
- <summary>Technical Interview Resources</summary>
-
-  ## Table of Contents
-  - [How to use it](#how-to-use-it)
-  - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-  - [About Video Resources](#about-video-resources)
-  - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-  - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-  - [Book List](#book-list)
-  - [Before you Get Started](#before-you-get-started)
-  - [What you Won't See Covered](#what-you-wont-see-covered)
-  - [Prerequisite Knowledge](#prerequisite-knowledge)
-  - [The Daily Plan](#the-daily-plan)
-  - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-  - [Data Structures](#data-structures)
-      - [Arrays](#arrays)
-      - [Linked Lists](#linked-lists)
-      - [Stack](#stack)
-      - [Queue](#queue)
-      - [Hash table](#hash-table)
-  - [More Knowledge](#more-knowledge)
-      - [Binary search](#binary-search)
-      - [Bitwise operations](#bitwise-operations)
-  - [Trees](#trees)
-      - [Trees - Notes & Background](#trees---notes--background)
-      - [Binary search trees: BSTs](#binary-search-trees-bsts)
-      - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-      - balanced search trees (general concept, not details)
-      - traversals: preorder, inorder, postorder, BFS, DFS
-  - [Sorting](#sorting)
-      - selection
-      - insertion
-      - heapsort
-      - quicksort
-      - merge sort
-  - [Graphs](#graphs)
-      - directed
-      - undirected
-      - adjacency matrix
-      - adjacency list
-      - traversals: BFS, DFS
-  - [Even More Knowledge](#even-more-knowledge)
-      - [Recursion](#recursion)
-      - [Dynamic Programming](#dynamic-programming)
-      - [Object-Oriented Programming](#object-oriented-programming)
-      - [Design Patterns](#design-patterns)
-      - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-      - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-      - [Caches](#caches)
-      - [Processes and Threads](#processes-and-threads)
-      - [Testing](#testing)
-      - [Scheduling](#scheduling)
-      - [String searching & manipulations](#string-searching--manipulations)
-      - [Tries](#tries)
-      - [Floating Point Numbers](#floating-point-numbers)
-      - [Unicode](#unicode)
-      - [Endianness](#endianness)
-  - [Networking](#networking)
-  - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-  - [Final Review](#final-review)
-  - [Coding Question Practice](#coding-question-practice)
-  - [Coding exercises/challenges](#coding-exerciseschallenges)
-  - [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-  - [Your Resume](#your-resume)
-  - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-  - [Have questions for the interviewer](#have-questions-for-the-interviewer)
-  - [Once You've Got The Job](#once-youve-got-the-job)
-
-  <details>
-  <summary>Additional Resources (Optional)</summary>
-
-  - [Additional Books](#additional-books)
-  - [Additional Learning](#additional-learning)
-      - [Compilers](#compilers)
-      - [Emacs and vi(m)](#emacs-and-vim)
-      - [Unix command line tools](#unix-command-line-tools)
-      - [Information theory](#information-theory-videos)
-      - [Parity & Hamming Code](#parity--hamming-code-videos)
-      - [Entropy](#entropy)
-      - [Cryptography](#cryptography)
-      - [Compression](#compression)
-      - [Computer Security](#computer-security)
-      - [Garbage collection](#garbage-collection)
-      - [Parallel Programming](#parallel-programming)
-      - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
-      - [A*](#a)
-      - [Fast Fourier Transform](#fast-fourier-transform)
-      - [Bloom Filter](#bloom-filter)
-      - [HyperLogLog](#hyperloglog)
-      - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
-      - [van Emde Boas Trees](#van-emde-boas-trees)
-      - [Augmented Data Structures](#augmented-data-structures)
-      - [Balanced search trees](#balanced-search-trees)
-          - AVL trees
-          - Splay trees
-          - Red/black trees
-          - 2-3 search trees
-          - 2-3-4 Trees (aka 2-4 trees)
-          - N-ary (K-ary, M-ary) trees
-          - B-Trees
-      - [k-D Trees](#k-d-trees)
-      - [Skip lists](#skip-lists)
-      - [Network Flows](#network-flows)
-      - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
-      - [Math for Fast Processing](#math-for-fast-processing)
-      - [Treap](#treap)
-      - [Linear Programming](#linear-programming-videos)
-      - [Geometry, Convex hull](#geometry-convex-hull-videos)
-      - [Discrete math](#discrete-math)
-      - [Machine Learning](#machine-learning)
-  - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-  - [Video Series](#video-series)
-  - [Computer Science Courses](#computer-science-courses)
-  - [Papers](#papers)
-
-  </details>
-
-  ---
-
-  ## How to use it
-  
-  <details>
-  <summary>How to use it</summary>
-  
+<details>
+    <summary>Using this Repository</summary>
+    
   1. Fork this repository and clone in on your machine.
   1. Mark all items as done by marking `[x]` in the `README.md` file as:
   ```markdown
   [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-  ```
-  
-  </details>
+  ```    
+</details>
+
+Best of luck ! 🎢 and happy cracking 😋.
+
+## 📖 Overview
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [About Video Resources](#about-video-resources)
+- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- [Book List](#book-list)
+- [Before you Get Started](#before-you-get-started)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [Prerequisite Knowledge](#prerequisite-knowledge)
+- [The Daily Plan](#the-daily-plan)
+- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Data Structures](#data-structures)
+  - [Arrays](#arrays)
+  - [Linked Lists](#linked-lists)
+  - [Stack](#stack)
+  - [Queue](#queue)
+  - [Hash table](#hash-table)
+- [More Knowledge](#more-knowledge)
+  - [Binary search](#binary-search)
+  - [Bitwise operations](#bitwise-operations)
+- [Trees](#trees)
+  - [Trees - Notes & Background](#trees---notes--background)
+  - [Binary search trees: BSTs](#binary-search-trees-bsts)
+  - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+  - balanced search trees (general concept, not details)
+  - traversals: preorder, inorder, postorder, BFS, DFS
+- [Sorting](#sorting)
+  - selection
+  - insertion
+  - heapsort
+  - quicksort
+  - merge sort
+- [Graphs](#graphs)
+  - directed
+  - undirected
+  - adjacency matrix
+  - adjacency list
+  - traversals: BFS, DFS
+- [Even More Knowledge](#even-more-knowledge)
+  - [Recursion](#recursion)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Object-Oriented Programming](#object-oriented-programming)
+  - [Design Patterns](#design-patterns)
+  - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+  - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+  - [Caches](#caches)
+  - [Processes and Threads](#processes-and-threads)
+  - [Testing](#testing)
+  - [Scheduling](#scheduling)
+  - [String searching & manipulations](#string-searching--manipulations)
+  - [Tries](#tries)
+  - [Floating Point Numbers](#floating-point-numbers)
+  - [Unicode](#unicode)
+  - [Endianness](#endianness)
+- [Networking](#networking)
+- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [Final Review](#final-review)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding exercises/challenges](#coding-exerciseschallenges)
+- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
+- [Your Resume](#your-resume)
+- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [Once You've Got The Job](#once-youve-got-the-job)
+
+<details>
+<summary>Additional Resources (Optional)</summary>
+
+- [Additional Books](#additional-books)
+- [Additional Learning](#additional-learning)
+  - [Compilers](#compilers)
+  - [Emacs and vi(m)](#emacs-and-vim)
+  - [Unix command line tools](#unix-command-line-tools)
+  - [Information theory](#information-theory-videos)
+  - [Parity & Hamming Code](#parity--hamming-code-videos)
+  - [Entropy](#entropy)
+  - [Cryptography](#cryptography)
+  - [Compression](#compression)
+  - [Computer Security](#computer-security)
+  - [Garbage collection](#garbage-collection)
+  - [Parallel Programming](#parallel-programming)
+  - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
+  - [A*](#a)
+  - [Fast Fourier Transform](#fast-fourier-transform)
+  - [Bloom Filter](#bloom-filter)
+  - [HyperLogLog](#hyperloglog)
+  - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
+  - [van Emde Boas Trees](#van-emde-boas-trees)
+  - [Augmented Data Structures](#augmented-data-structures)
+  - [Balanced search trees](#balanced-search-trees)
+      - AVL trees
+      - Splay trees
+      - Red/black trees
+      - 2-3 search trees
+      - 2-3-4 Trees (aka 2-4 trees)
+      - N-ary (K-ary, M-ary) trees
+      - B-Trees
+  - [k-D Trees](#k-d-trees)
+  - [Skip lists](#skip-lists)
+  - [Network Flows](#network-flows)
+  - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
+  - [Math for Fast Processing](#math-for-fast-processing)
+  - [Treap](#treap)
+  - [Linear Programming](#linear-programming-videos)
+  - [Geometry, Convex hull](#geometry-convex-hull-videos)
+  - [Discrete math](#discrete-math)
+  - [Machine Learning](#machine-learning)
+- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [Video Series](#video-series)
+- [Computer Science Courses](#computer-science-courses)
+- [Papers](#papers)
+
+</details>
+
+- [Experiences](#-experiences)
+- [Contributors](#-contributors)
 
   ## Don't feel you aren't smart enough
   - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
@@ -1935,9 +1919,6 @@ Best of luck ! 🎢 and happy cracking 😋.
   - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
   - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
- </details>
-  
- ## 📕 Non-Technical Interview Resources
  
  ## 🚩 Experiences
  <a href="experience/anishLearnsToCode.md"><img src="https://avatars.githubusercontent.com/anishLearnsToCode" width="35px"></a> 
