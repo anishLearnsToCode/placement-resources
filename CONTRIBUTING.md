@@ -2,10 +2,10 @@
 
 If you believe that you have some excellent website link, book or any other article that can
 help other people in their interview round etc. contributing that here will add some excellent 
-stats on your GitHib and also goes without saying some good karma 😉
+stats on your GitHib and goes without saying some good karma 😉
 
 You are also encouraged to share your experiences on how you prepared and cracked an interview.
-See a sample [here](experience).
+See a sample [here](experience/anishLearnsToCode.md).
 
 To contribute follow the below guidelines:
 
@@ -73,4 +73,3 @@ git push origin master
 
 This will bring you repository at `your-github-username/placement-resources` up to date with 
 `anishLearnsToCode/placement-resources`
-
