@@ -1,5 +1,8 @@
 # 🎓 Placement Resources
 
+[![experiences](https://img.shields.io/badge/Quick%20Link-Experiences-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-experiences)
+[![contributors](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-contributors)
+
 This repository aims to provide important and helpful links for cracking your dream tech job. Contributions are welcome 
 and highly appreciated, read the [Contribution Guidelines](CONTRIBUTING.md) here.
 
@@ -46,17 +49,7 @@ Best of luck ! 🎢 and happy cracking 😋.
   - balanced search trees (general concept, not details)
   - traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
-  - selection
-  - insertion
-  - heapsort
-  - quicksort
-  - merge sort
 - [Graphs](#graphs)
-  - directed
-  - undirected
-  - adjacency matrix
-  - adjacency list
-  - traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
   - [Recursion](#recursion)
   - [Dynamic Programming](#dynamic-programming)
@@ -85,7 +78,7 @@ Best of luck ! 🎢 and happy cracking 😋.
 - [Once You've Got The Job](#once-youve-got-the-job)
 
 <details>
-<summary>Additional Resources (Optional)</summary>
+    <summary>Additional Resources (Optional)</summary>
 
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
@@ -129,12 +122,8 @@ Best of luck ! 🎢 and happy cracking 😋.
 - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
-- [Papers](#papers)
 
 </details>
-
-- [Experiences](#-experiences)
-- [Contributors](#-contributors)
 
   ## Don't feel you aren't smart enough
   - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
