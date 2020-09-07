@@ -88,10 +88,8 @@ Best of luck ! 🎢 and happy cracking 😋.
   - [Have questions for the interviewer](#have-questions-for-the-interviewer)
   - [Once You've Got The Job](#once-youve-got-the-job)
 
-  ---------------- Everything below this point is optional ----------------
-
   <details>
-  <summary>Additional Resources</summary>
+  <summary>Additional Resources (Optional)</summary>
 
   - [Additional Books](#additional-books)
   - [Additional Learning](#additional-learning)
@@ -142,37 +140,13 @@ Best of luck ! 🎢 and happy cracking 😋.
   ---
 
   ## How to use it
-
   <details>
   <summary>How to use it</summary>
-
-  Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-  I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-  **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
-
-
-      Fork a branch and follow the commands below
-
-  `git checkout -b progress`
-
-  `git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-  `git fetch --all`
-
-      Mark all boxes with X after you completed your changes
-
-  `git add . `
-
-  `git commit -m "Marked x" `
-
-  `git rebase jwasham/master `
-
-  `git push --force `
-
-  [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
+  1. Fork this repository and clone in on your machine.
+  1. Mark all items as done by marking `[x]` in the `README.md` file as:
+  ```markdown
+  [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+  ```
   </details>
 
   ## Don't feel you aren't smart enough
