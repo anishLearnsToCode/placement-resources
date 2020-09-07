@@ -140,13 +140,16 @@ Best of luck ! 🎢 and happy cracking 😋.
   ---
 
   ## How to use it
+  
   <details>
   <summary>How to use it</summary>
+  
   1. Fork this repository and clone in on your machine.
   1. Mark all items as done by marking `[x]` in the `README.md` file as:
   ```markdown
   [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
   ```
+  
   </details>
 
   ## Don't feel you aren't smart enough
