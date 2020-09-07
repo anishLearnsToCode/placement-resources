@@ -1,5 +1,6 @@
 # 🎓 Placement Resources
 
+[![ques-bank](https://img.shields.io/badge/Quick%20Link-Question%20Bank%20+%20Solutions-1225ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-experiences)
 [![experiences](https://img.shields.io/badge/Quick%20Link-Experiences-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-experiences)
 [![contributors](https://img.shields.io/badge/Quick%20Link-Contributors-1f72ff.svg)](https://github.com/anishLearnsToCode/placement-resources#-contributors)
 
