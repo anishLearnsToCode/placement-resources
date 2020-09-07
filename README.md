@@ -21,39 +21,8 @@ Best of luck ! 🎢 and happy cracking 😋.
  ## 👨‍💻 Technical Interview Resources
  <details>
  <summary>Technical Interview Resources</summary>
-   I originally created this as a short to-do list of study topics for becoming a software engineer,
-  > but it grew to the large list you see today. After going through this study plan, [I got hired
-  > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-  > You probably won't have to study as much as I did. Anyway, everything you need is here.
-  >
-  > I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
-  >
-  > The items listed here will prepare you well for an interview at just about any software company,
-  > including the giants: Amazon, Facebook, Google or Microsoft.
-  >
-  > *Best of luck to you!*
-
-  ## What is it?
-
-  This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-
-  ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
-  This is meant for **new software engineers** or those switching from
-  software/web development to software engineering (where computer science knowledge is required). If you have
-  many years of experience and are claiming many years of software engineering experience, expect a harder interview.
-
-  If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-  Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
-
-  If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
-
-  ---
 
   ## Table of Contents
-
-  - [What is it?](#what-is-it)
-  - [Why use it?](#why-use-it)
   - [How to use it](#how-to-use-it)
   - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
   - [About Video Resources](#about-video-resources)
@@ -171,17 +140,6 @@ Best of luck ! 🎢 and happy cracking 😋.
   </details>
 
   ---
-
-  ## Why use it?
-
-  When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-  traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-  Every data structure I've ever used was built into the language, and I didn't know how they worked
-  under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
-  memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-  thousands of associative arrays, but I've never created data structures from scratch.
-
-  It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
   ## How to use it
 
@@ -470,27 +428,6 @@ Best of luck ! 🎢 and happy cracking 😋.
   You don't need to memorize the guts of every algorithm.
 
   Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
-
-  ## Prerequisite Knowledge
-
-  <details>
-  <summary>Prerequisite Knowledge</summary>
-
-  - [ ] **Learn C**
-      - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-      - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-          - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-              you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-          - [answers to questions](https://github.com/lekkas/c-algorithms)
-
-  - [ ] **How computers process a program:**
-      - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-      - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-      - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-      - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-      - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
-
-  </details>
 
   ## Algorithmic complexity / Big-O / Asymptotic analysis
 
@@ -2024,43 +1961,7 @@ Best of luck ! 🎢 and happy cracking 😋.
   - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
   - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
-  ## Papers
-
-  <details>
-  <summary>Papers</summary>
-
-  - [Love classic papers?](https://www.cs.cmu.edu/~crary/819-f09/)
-  - [ ] [1978: Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
-      - [implemented in Go](https://godoc.org/github.com/thomas11/csp)
-  - [ ] [2003: The Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-      - replaced by Colossus in 2012
-  - [ ] [2004: MapReduce: Simplified Data Processing on Large Clusters]( http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-      - mostly replaced by Cloud Dataflow?
-  - [ ] [2006: Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-      - [An Inside Look at Google BigQuery](https://cloud.google.com/files/BigQueryTechnicalWP.pdf)
-  - [ ] [2006: The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby-osdi06.pdf)
-  - [ ] [2007: Dynamo: Amazon’s Highly Available Key-value Store](http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf)
-      - The Dynamo paper kicked off the NoSQL revolution
-  - [ ] [2007: What Every Programmer Should Know About Memory (very long, and the author encourages skipping of some sections)](https://www.akkadia.org/drepper/cpumemory.pdf)
-  - [ ] [2010: Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/archive/36356.pdf)
-  - [ ] [2010: Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
-  - [ ] [2012: Google's Colossus](https://www.wired.com/2012/07/google-colossus/)
-      - paper not available
-  - [ ] 2012: AddressSanitizer: A Fast Address Sanity Checker:
-      - [paper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37752.pdf)
-      - [video](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
-  - [ ] 2013: Spanner: Google’s Globally-Distributed Database:
-      - [paper](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-      - [video](https://www.usenix.org/node/170855)
-  - [ ] [2014: Machine Learning: The High-Interest Credit Card of Technical Debt](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
-  - [ ] [2015: Continuous Pipelines at Google](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43790.pdf)
-  - [ ] [2015: High-Availability at Massive Scale: Building Google’s Data Infrastructure for Ads](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44686.pdf)
-  - [ ] [2015: TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf )
-  - [ ] [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
-  - [ ] [2016: Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
-
-  </details>
-  </details>
+ </details>
   
  ## 📕 Non-Technical Interview Resources
  
